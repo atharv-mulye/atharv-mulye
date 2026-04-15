@@ -5,7 +5,8 @@
 
 ## 🚀 About Me
 - 🔐 Cybersecurity enthusiast with hands-on practice  
-- 📚 200+ day streak on TryHackMe  
+- 📚 200+ day streak on TryHackMe 
+- 🏅 Ranked in top 7% on TryHackMe (Hacker level)  
 - 🏁 Participated in Capture The Flag (CTF) competitions  
 - 🧠 Interested in vulnerability analysis and system security  
 - 🛠️ Documenting my learning on GitHub  

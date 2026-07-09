@@ -48,20 +48,6 @@
 
 ---
 
-## 📂 Projects
-- 📡 Networking Notes – Structured networking concepts in my own words  
-- 🧪 TryHackMe Journey – Documented labs and learning  
-- 🔍 (Upcoming) Vulnerability Analysis – Studying real-world CVEs  
-
----
-
-## 📈 Current Focus
-- Learning vulnerability analysis and CVEs  
-- Improving Python scripting  
-- Exploring real-world attack surfaces  
-
----
-
 ## 📫 Connect With Me
 - GitHub: https://github.com/atharv-mulye  
 - TryHackMe: https://tryhackme.com/p/atharv.mulye
